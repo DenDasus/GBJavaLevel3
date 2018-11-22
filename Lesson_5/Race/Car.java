@@ -1,4 +1,4 @@
-package Lesson_5;
+package Lesson_5.Race;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
